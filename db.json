@@ -1,0 +1,147 @@
+{
+"posts":
+[
+  {"id":1, "username": "tigera", "password": "Taigerim00."},
+  {"id":2, "username": "bobisme", "password": "bobbyb0b!"},
+  {"id":3, "username": "millionchanges", "password": "taknura1997."}
+],
+"dogs":
+  [
+    "long-haired":[
+      {"id":1, 
+      "name": "Afghan Hound", 
+      "image": "https://www.thesprucepets.com/thmb/0pV3_nEE_brEHxq7MOd4S94VSlE=/1486x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-866199876-d3dc392bfedd470590cf08bedc095a6f.jpg",
+      "price": 1000 
+      },
+      {"id":2, 
+      "name": "Bearded Collie", 
+      "image": "https://www.thesprucepets.com/thmb/Jq3CMVnkJUFhxcXb1Sw7JdsDQfQ=/2121x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-979771068-eebe1757fc884ab8a9c9929b36aa5984.jpg",
+      "price": 2000
+      },
+      {"id":3, 
+      "name": "Bolognese", 
+      "image": "https://www.thesprucepets.com/thmb/e5L6SFWXOaRih9ZpMpLM1z16Ia8=/1024x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-651959154-96287fa1ae4d41f6ba56a0799cb896d9.jpg",
+      "price": 1500
+      },
+      {"id":4, 
+      "name": "Briard", 
+      "image": "https://www.thesprucepets.com/thmb/84IwkquRrOkG_P9taE5y5m1T2FQ=/2123x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-607591704-8803bf644b9e4e3b9bd35432e5b9cd96.jpg",
+      "price": 1000
+      },
+      {"id":5, 
+      "name": "Coton de Tulear", 
+      "image": "https://www.thesprucepets.com/thmb/bSu0aWtxgJeFW3rcozs-UQZ44Qo=/2127x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1141815219-5083d2c24af54c0da74e762d0e557314.jpg",
+      "price": 2500
+      },
+      {"id":6, 
+      "name": "Havanese", 
+      "image": "https://www.thesprucepets.com/thmb/xC0aRcJw9Y9lvCvo1eD3SgYeTJk=/2121x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-167438131-f1a8331869934510a8ae718032028be7.jpg",
+      "price": 1300
+      },
+      {"id":7, 
+      "name": "Lhasa Apso", 
+      "image": "https://www.thesprucepets.com/thmb/sNCamNCwzsor2a3iXfqi6Y0_FWo=/1816x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-12631080332-9d797326c0c5446398b1d8c7bd461dd1.jpg",
+      "price": 1100
+      },
+      {"id":8, 
+      "name": "Pekingese", 
+      "image": "https://www.thesprucepets.com/thmb/g7W_jZILpNcb-7oBdbzFBzOsR4M=/2120x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-467384958-83b719e69b924e349ae5a1fe4f0e9f9c.jpg",
+      "price": 2000
+      },
+      {"id":9, 
+      "name": "Shih Tzu", 
+      "image": "https://www.thesprucepets.com/thmb/yvgpsVAVnq7GX5XpQu_FgVPhHwU=/1941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1160741904-6717249a39e749d88de83b0f9a0cc4f5.jpg",
+      "price": 5000
+      },
+      {"id":10, 
+      "name": "Tibetan Terrier", 
+      "image": "https://www.thesprucepets.com/thmb/X5_7NN-tn-yQ_lgZAhUlKRF4-hU=/2119x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1177298821-72b8011ff02848adaba10cd3e89a5d10.jpg",
+      "price": 2500
+      },
+    ],
+    "shorthaired":[
+      {"id":1, 
+      "name": "Basenji", 
+      "image": "https://www.thesprucepets.com/thmb/lqxJq5NlN34gcPZIBEunv-tSZM8=/725x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-506808496-5bf4e5627dc44f95a232758fcd27d3ce.jpg",
+      "price": 3000
+      },
+      {"id":2, 
+      "name": "Boxer", 
+      "image": "https://www.thesprucepets.com/thmb/9y0PjYflfcnwVeiSfTMyVOy24h4=/724x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-518347209-0bc5eea1d164476fa6bb78280a5aa6ff.jpg",
+      "price": 3700
+      },
+      {"id":3, 
+      "name": "Bull Terrier", 
+      "image": "https://www.thesprucepets.com/thmb/l5oyK4rbjjsY5sRpBVtHz0BqBWs=/724x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-478625251-8a7315f6698049bfb7101a1e2ec6e3c4.jpg",
+      "price": 2700
+      },
+      {"id":4, 
+      "name": "Dalmatian", 
+      "image": "https://www.thesprucepets.com/thmb/ri28D0McJjLskhKDpxyfF4ew3bI=/724x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-728910017-75b779cedb1048c68617cb5be28a2f74.jpg",
+      "price": 1000
+      },
+      {"id":5, 
+      "name": "Doberman Pinscher", 
+      "image": "https://www.thesprucepets.com/thmb/xsbuf788c_K2HKbgvBZZoO5Q3EM=/733x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-157592795-4f6cbfe91d214b7a8174a4c3d920cda3.jpg",
+      "price": 2000
+      },
+      {"id":6, 
+      "name": "German Shorthaired Pointer", 
+      "image": "https://www.thesprucepets.com/thmb/iLIpwpZMLmm1teuGGjpBvV-7h2I=/724x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1287666375-883d8de0fe544b08b2bd209eb228cc70.jpg",
+      "price": 1000
+      },
+      {"id":7, 
+      "name": "Great Dane", 
+      "image": "https://www.thesprucepets.com/thmb/Z-us1uvzmp-NYY2avdT2XqthXnU=/695x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-507125725-ba1b148b5d014b7ead70a5768a0c6b2d.jpg",
+      "price": 2200
+      },
+      {"id":8, 
+      "name": "Greyhound", 
+      "image": "https://www.thesprucepets.com/thmb/AJ9b1XCsx_Yknis3_9kvR_7_5pI=/728x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1199825085-81a7bf503d3c47c189dfb8a3f03cce0d.jpg",
+      "price": 800
+      },
+      {"id":9, 
+      "name": "Ibizan Hound", 
+      "image": "https://www.thesprucepets.com/thmb/PcNGOJ96sRRPxFVNSUOLvD14BFA=/726x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-659129025-c14b8f4db19e4926a000fe50157b63a4.jpg",
+      "price": 1300
+      },
+      "id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "https://www.thesprucepets.com/thmb/PddgnNnbRwSiVtJ7ui-v9q4jCck=/2121x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1128235063-42d29abaca9146b7aad90d764c9d599f.jpg",
+      "price": 4000
+      },
+    ]
+  ],
+  "cats":
+  [
+    "long-haired":[
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+    ],
+    "shorthaired":[
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+    ],
+    "bold":
+      {
+      
+      }
+  ]
+}
+
