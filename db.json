@@ -113,109 +113,109 @@
   ],
    "long-haired-cats": 
     [
-      {"id":10, 
-      "name": "Miniature Pinscher", 
-      "image": "",
-      "price": 4000
+      {"id":1, 
+      "name": "Somali", 
+      "image": "https://www.litter-robot.com/blog/wp-content/uploads/2019/02/Somali-695x900.jpg",
+      "price": 500
+      },
+      {"id":2, 
+      "name": "Selkirk Rex", 
+      "image": "https://www.litter-robot.com/blog/wp-content/uploads/2019/04/selkirk-rex.jpg",
+      "price": 1100
+      },
+      {"id":3, 
+      "name": "Ragdol", 
+      "image": "https://www.litter-robot.com/blog/wp-content/uploads/2019/02/ragdoll-900x600-768x512.jpg",
+      "price": 1500
+      },
+      {"id":4, 
+      "name": "Persian", 
+      "image": "https://cdn.shopify.com/s/files/1/1199/8502/files/persian-doll-face.jpg",
+      "price": 1500
+      },
+      {"id":5, 
+      "name": "Norwegian Forest Cat", 
+      "image": "https://www.litter-robot.com/blog/wp-content/uploads/2019/04/Norwegian_Forest_Cat.jpg",
+      "price": 1200
+      },
+      {"id":6, 
+      "name": "Maine Coon", 
+      "image": "https://www.litter-robot.com/blog/wp-content/uploads/2019/04/maine-coon.jpg",
+      "price": 1500
+      },
+      {"id":7, 
+      "name": "Himalayan", 
+      "image": "https://www.litter-robot.com/blog/wp-content/uploads/2019/04/Himalayan_Cat.jpg",
+      "price": 1200
+      },
+      {"id":8, 
+      "name": "Chantilly-Tiffany", 
+      "image": "https://www.litter-robot.com/blog/wp-content/uploads/2019/04/chantilly-tiffany.jpg",
+      "price": 800
+      },
+      {"id":9, 
+      "name": "British Longhair", 
+      "image": "https://www.litter-robot.com/blog/wp-content/uploads/2019/04/british-longhair.jpg",
+      "price": 1200
       },
       {"id":10, 
-      "name": "Miniature Pinscher", 
-      "image": "",
-      "price": 4000
-      },
-      {"id":10, 
-      "name": "Miniature Pinscher", 
-      "image": "",
-      "price": 4000
-      },
-      {"id":10, 
-      "name": "Miniature Pinscher", 
-      "image": "",
-      "price": 4000
-      },
-      {"id":10, 
-      "name": "Miniature Pinscher", 
-      "image": "",
-      "price": 4000
-      },
-      {"id":10, 
-      "name": "Miniature Pinscher", 
-      "image": "",
-      "price": 4000
-      },
-      {"id":10, 
-      "name": "Miniature Pinscher", 
-      "image": "",
-      "price": 4000
-      },
-      {"id":10, 
-      "name": "Miniature Pinscher", 
-      "image": "",
-      "price": 4000
-      },
-      {"id":10, 
-      "name": "Miniature Pinscher", 
-      "image": "",
-      "price": 4000
-      },
-      {"id":10, 
-      "name": "Miniature Pinscher", 
-      "image": "",
-      "price": 4000
+      "name": "Balinese", 
+      "image": "https://www.litter-robot.com/blog/wp-content/uploads/2019/02/Balinese-new.jpg",
+      "price": 800
       }
     ],
     "shorthaired-cats": 
     [
-      {"id":10, 
-      "name": "Miniature Pinscher", 
-      "image": "",
-      "price": 4000
+      {"id":1, 
+      "name": "Abyssinian", 
+      "image": "https://www.pawculture.com/uploads/versions/abyssian---x----670-440x---.jpg",
+      "price": 1800
+      },
+      {"id":2, 
+      "name": "American Shorthair", 
+      "image": "https://www.pawculture.com/uploads/versions/americanshorthair---x----670-440x---.jpg",
+      "price":800
+      },
+      {"id":3, 
+      "name": "Bombay", 
+      "image": "https://www.pawculture.com/uploads/versions/bombay---x----670-440x---.jpg",
+      "price": 800
+      },
+     {"id":4, 
+      "name": "British Shorthair", 
+      "image": "https://petpricelist.com/wp-content/uploads/2018/01/british-shorthair-4.jpg",
+      "price": 1500
+      },
+      {"id":5, 
+      "name": "Burmilla", 
+      "image": "https://www.pawculture.com/uploads/versions/burmilla---x----670-440x---.jpg",
+      "price": 1000
+      },
+      {"id":6, 
+      "name": "Chartreux", 
+      "image": "https://www.pawculture.com/uploads/versions/chartreaux-1---x----670-440x---.jpg",
+      "price": 1000
+      },
+      {"id":7, 
+      "name": "Havana", 
+      "image": "https://www.thehappycatsite.com/wp-content/uploads/2018/03/havana-brown-cat-header.jpg",
+      "price": 1000
+      },
+      {"id":8, 
+      "name": "Siamese", 
+      "image": "https://www.pawculture.com/uploads/versions/siamese-1---x----670-440x---.jpg",
+      "price": 1000
+      },
+      {"id":9, 
+      "name": "Thai", 
+      "image": "https://petpricelist.com/wp-content/uploads/2017/12/siamese-cat-1.jpg",
+      "price": 1000
       },
       {"id":10, 
-      "name": "Miniature Pinscher", 
-      "image": "",
-      "price": 4000
-      },
-      {"id":10, 
-      "name": "Miniature Pinscher", 
-      "image": "",
-      "price": 4000
-      },
-     {"id":10, 
-      "name": "Miniature Pinscher", 
-      "image": "",
-      "price": 4000
-      },
-      {"id":10, 
-      "name": "Miniature Pinscher", 
-      "image": "",
-      "price": 4000
-      },
-      {"id":10, 
-      "name": "Miniature Pinscher", 
-      "image": "",
-      "price": 4000
-      },
-      {"id":10, 
-      "name": "Miniature Pinscher", 
-      "image": "",
-      "price": 4000
-      },
-      {"id":10, 
-      "name": "Miniature Pinscher", 
-      "image": "",
-      "price": 4000
-      },
-      {"id":10, 
-      "name": "Miniature Pinscher", 
-      "image": "",
-      "price": 4000
-      },
-      {"id":10, 
-      "name": "Miniature Pinscher", 
-      "image": "",
-      "price": 4000
+      "name": "Tonkinese", 
+      "image": "https://www.pawculture.com/uploads/versions/tonkinese---x----670-440x---.jpg",
+      "price": 1000
       }
-  ]
+    ]
 }
 
