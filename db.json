@@ -7,7 +7,8 @@
 ],
 "dogs":
   [
-    "long-haired":[
+    "long-haired":
+    [
       {"id":1, 
       "name": "Afghan Hound", 
       "image": "https://www.thesprucepets.com/thmb/0pV3_nEE_brEHxq7MOd4S94VSlE=/1486x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-866199876-d3dc392bfedd470590cf08bedc095a6f.jpg",
@@ -59,7 +60,8 @@
       "price": 2500
       },
     ],
-    "shorthaired": [
+    "shorthaired": 
+    [
       {"id":1, 
       "name": "Basenji", 
       "image": "https://www.thesprucepets.com/thmb/lqxJq5NlN34gcPZIBEunv-tSZM8=/725x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-506808496-5bf4e5627dc44f95a232758fcd27d3ce.jpg",
@@ -105,7 +107,7 @@
       "image": "https://www.thesprucepets.com/thmb/PcNGOJ96sRRPxFVNSUOLvD14BFA=/726x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-659129025-c14b8f4db19e4926a000fe50157b63a4.jpg",
       "price": 1300
       },
-      "id":10, 
+      {"id":10, 
       "name": "Miniature Pinscher", 
       "image": "https://www.thesprucepets.com/thmb/PddgnNnbRwSiVtJ7ui-v9q4jCck=/2121x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1128235063-42d29abaca9146b7aad90d764c9d599f.jpg",
       "price": 4000
@@ -114,33 +116,115 @@
   ],
   "cats": 
   [
-    "long-haired": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
+    "long-haired": 
+  [
+      {"id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "",
+      "price": 4000
+      },
+      {"id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "",
+      "price": 4000
+      },
+      {"id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "",
+      "price": 4000
+      },
+      {"id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "",
+      "price": 4000
+      },
+      {"id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "",
+      "price": 4000
+      },
+      {"id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "",
+      "price": 4000
+      },
+      {"id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "",
+      "price": 4000
+      },
+      {"id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "",
+      "price": 4000
+      },
+      {"id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "",
+      "price": 4000
+      },
+      {"id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "",
+      "price": 4000
+      },
     ],
-    "shorthaired": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
+    "shorthaired": 
+  [
+      {"id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "",
+      "price": 4000
+      },
+      {"id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "",
+      "price": 4000
+      },
+      {"id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "",
+      "price": 4000
+      },
+     {"id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "",
+      "price": 4000
+      },
+      {"id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "",
+      "price": 4000
+      },
+      {"id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "",
+      "price": 4000
+      },
+      {"id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "",
+      "price": 4000
+      },
+      {"id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "",
+      "price": 4000
+      },
+      {"id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "",
+      "price": 4000
+      },
+      {"id":10, 
+      "name": "Miniature Pinscher", 
+      "image": "",
+      "price": 4000
+      },
     ],
     "bold": 
       {
-      
+        "id":1
       }
   ]
 }
