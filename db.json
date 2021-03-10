@@ -1,6 +1,6 @@
 {
-"posts":
-[
+"posts": 
+  [
   {"id":1, "username": "tigera", "password": "Taigerim00."},
   {"id":2, "username": "bobisme", "password": "bobbyb0b!"},
   {"id":3, "username": "millionchanges", "password": "taknura1997."}
@@ -59,7 +59,7 @@
       "price": 2500
       },
     ],
-    "shorthaired":[
+    "shorthaired": [
       {"id":1, 
       "name": "Basenji", 
       "image": "https://www.thesprucepets.com/thmb/lqxJq5NlN34gcPZIBEunv-tSZM8=/725x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-506808496-5bf4e5627dc44f95a232758fcd27d3ce.jpg",
@@ -112,9 +112,9 @@
       },
     ]
   ],
-  "cats":
+  "cats": 
   [
-    "long-haired":[
+    "long-haired": [
       {},
       {},
       {},
@@ -126,7 +126,7 @@
       {},
       {},
     ],
-    "shorthaired":[
+    "shorthaired": [
       {},
       {},
       {},
@@ -138,7 +138,7 @@
       {},
       {},
     ],
-    "bold":
+    "bold": 
       {
       
       }
